@@ -1,0 +1,3 @@
+import numpy as np # parte matematica
+import pandas as pd # trabalhar com os dados, tipo orm
+import matplotlib.pyplot as plt  # gerar graficos
